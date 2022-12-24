@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/User Interface/MainMenu.unity
+    guid: f9a887f8759465c468046626a43001b0
+  - enabled: 1
+    path: Assets/User Interface/Exercises.unity
+    guid: 178d131ee40ad7641ac791f4c12f8a7e
+  - enabled: 1
+    path: Assets/User Interface/Arms.unity
+    guid: fa54f25f03e6db74f9e57af279c8cfb4
+  - enabled: 1
+    path: Assets/User Interface/Legs.unity
+    guid: 00ccf1f0b3b0d7845b8e4161d807fc6d
+  - enabled: 1
+    path: Assets/Space Ship Level/SpaceShip.unity
+    guid: 4547825d60af78e4dba31ef1b4f50a71
+  - enabled: 1
+    path: Assets/SOUTH PACIFIC VILLAGE/Alphabet.unity
+    guid: 1dc70c36e60b0ea4199c52ee8c09ee37
+  - enabled: 1
+    path: Assets/football/Football.unity
+    guid: 51312006478f65b42afba946cbda7700
+  m_configObjects: {}
